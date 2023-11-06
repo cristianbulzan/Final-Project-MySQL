@@ -80,7 +80,7 @@ IdDiscountPrices which brings from the Discount Prices Table the details related
 
 ## Section Store SQL database DML - *[Store SQL database DML](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Magazin%20SQL%20database%20DML.sql)*
 
-In this section, the tables were populated with the existing data in the file that can be accessed here: [Store Tables Information](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Baza%20de%20Date% 20Shop.xlsx)
+In this section, the tables were populated with the existing data in the file that can be accessed here: [Store Tables Information](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Baza%20de%20Date%20Shop.xlsx)
   
 ## Section Store SQL database DQL - *[Store SQL database DQL](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Magazin%20SQL%20database%20DQL.sql)*
 
