@@ -44,7 +44,7 @@ The created tables have the following details, and their structure can be access
 
   * **Billing Prices Table** (Id, IdProducts, List Price, Basic Discount, Billing Price).
 
-  * **Discount Prices Table** (Id, IdProducts, IdBillingPrices, Discount After Delivery, Logistics, Promo, Price with Discount).
+  * **Discount Prices Table** (Id, IdProducts, IdBillingPrices, Discount After Delivery, Logistics, Promo, Discount Price).
 
   * **Gross Margin Table** (Id, IdProducts, IdDiscountPrices, Gross Margin Value).
 
