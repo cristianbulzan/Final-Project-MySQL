@@ -36,7 +36,7 @@ The name of the database is: **Store** and it was created under the following st
 
 ![image](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Reverse%20Engineer%20Store%20Database.png)
 
-The created tables have the following details, and their structure can be accessed here: [Store Table Structure](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Diagram%20Magazin%20SQL%20database.mwb)
+The created tables have the following details, and their structure can be accessed here: [Store Table Structure](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Diagram%20Store%20SQL%20database.mwb)
 
   * **Products Table** (Id, Product Code, Product Name, IdCategory).
 
