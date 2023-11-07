@@ -34,7 +34,7 @@ In this section the structure of the database was made, it can be accessed here:
 
 The name of the database is: **Store** and it was created under the following structure that can be accessed here: [Store Database Structure](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20database.xlsx)
 
-![image](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Reverse%20Engineer%20Database.jpg)
+![image](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Reverse%20Engineer%20Store%20Database.png)
 
 The created tables have the following details, and their structure can be accessed here: [Store Table Structure](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Diagram%20Magazin%20SQL%20database.mwb)
 
