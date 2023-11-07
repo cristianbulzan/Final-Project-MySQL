@@ -32,7 +32,7 @@ n,n).
 
 In this section the structure of the database was made, it can be accessed here: [Store Structure Design](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20SQL%20database.docx) , the database was created, the tables in its structure were created, the primary and secondary keys and the links between the tables were established.
 
-The name of the database is: **Store** and it was created under the following structure that can be accessed here: [Store Database Structure](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Diagram%20Store%20SQL%20database.mwb)
+The name of the database is: **Store** and it was created under the following structure that can be accessed here: [Store Database Structure](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20database.xlsx)
 
 ![image](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Reverse%20Engineer%20Database.jpg)
 
