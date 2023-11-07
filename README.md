@@ -82,9 +82,9 @@ IdDiscountPrices which brings from the Discount Prices Table the details related
 
 In this section, the tables were populated with the existing data in the file that can be accessed here: [Store Tables Information](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20database.xlsx)
   
-## Section Store SQL database DQL - *[Store SQL database DQL](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Magazin%20SQL%20database%20DQL.sql)*
+## Section Store SQL database DQL - *[Store SQL database DQL](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20SQL%20database%20DQL.sql)*
 
-In this section, the created database and tables populated with the information from the previous section were queried, the instructions for solving the scenarios can be accessed here: [DQL scenario instructions](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Store%20SQL%20database%20DQL.sql)
+In this section, the created database and tables populated with the information from the previous section were queried, the instructions for solving the scenarios can be accessed here: [[DQL scenario instructions](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20SQL%20database%20DQL.sql)
 
 The **scenarios** following which the query was made are the following:
 
