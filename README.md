@@ -28,7 +28,7 @@ Example scenarios:
 Also, each two tables linked by primary keys and secondary keys will have to have an explanation related to the type of in which they are linked (which is the primary key, which is the secondary key) and respectively what is the relationship between the two tables (1:1, 1,n,
 n,n).
 
-## Section Store SQL database DDL - *[Store SQL database DDL](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Magazin%20SQL%20database%20DDL.sql)*
+## Section Store SQL database DDL - *[Store SQL database DDL](https://github.com/cristianbulzan/Final-Project-MySQL/blob/main/Store%20SQL%20database%20DDL.sql)*
 
 In this section the structure of the database was made, it can be accessed here: [Store Structure Design](https://github.com/cristianbulzan/Proiect-Final-MySQL/blob/main/Magazin%20SQL%20database.docx) , the database was created, the tables in its structure were created, the primary and secondary keys and the links between the tables were established.
 
